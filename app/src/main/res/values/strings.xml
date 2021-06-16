@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">XMovieApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="uncoming">uncoming</string>
+    <string name="view_all">view All</string>
+    <string name="trending">trending</string>
+</resources>
