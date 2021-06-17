@@ -49,7 +49,7 @@ class BlankFragmentVerticalRV : Fragment() {
 
 
         val list = listOf(
-            Models("Venom", R.drawable.venom_imax, "Mystery/Thriller"),
+            Models("The Nun", R.drawable.the_nun, "Horror/Thriller"),
             Models("Incredibles two", R.drawable.incredibles_two, "Anime/Family"),
             Models("Fight Club", R.drawable.fight_club, "Thriller/Drama"),
             Models("Centurion", R.drawable.centurion),
