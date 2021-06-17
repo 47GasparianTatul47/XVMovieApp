@@ -38,6 +38,9 @@ class HorizontalRVAdapter(val context: Context, val models: List<Models>) :
         holder.nameMovie.text = models[position].nameMovie
         holder.iconMovie.setImageResource(models[position].imageMovie)
 
+        holder.itemView.startAnimation(AnimationUtils.loadAnimation(context,R.anim.anim_horizontalitem))
+
+
     }
 
     override fun getItemCount(): Int {
